@@ -6,6 +6,7 @@ Tools:
 - HTML
 - CSS
 - JavaScript
+- Figma
 - Adobe Creative Cloud
 
 Goals:
