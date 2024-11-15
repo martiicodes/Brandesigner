@@ -1,6 +1,6 @@
 # DIVNO
 
-DIVNO portfolio website.
+DIVNO website.
 
 Tools: 
 - HTML
