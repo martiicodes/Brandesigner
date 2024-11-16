@@ -2,14 +2,17 @@
 
 DIVNO website.
 
-Tools: 
+Tools for development: 
 - HTML
 - CSS
 - JavaScript
-- Figma
+
+Tools for design:
 - Adobe Creative Cloud
+- Figma
 
 Goals:
 - Copy: sales letter
 - Portfolio sections
-- Analytics
+- Google Analytics
+- Facebook Pixel
