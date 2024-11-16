@@ -16,3 +16,5 @@ Goals:
 - Portfolio sections
 - Google Analytics
 - Facebook Pixel
+- Webpage 1 - English
+- Webpage 2 - Srpski
