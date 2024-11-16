@@ -12,3 +12,4 @@ Tools:
 Goals:
 - Copy: sales letter
 - Portfolio sections
+- Analytics
