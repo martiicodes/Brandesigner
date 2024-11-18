@@ -9,3 +9,8 @@ body {
 .copy { 
     padding-left: 100px;
 }
+
+.logo {
+    height: 100px;
+    weight:100px;
+}
