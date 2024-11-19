@@ -1,16 +1,8 @@
 body {
-    background: #FCF2F5;
+    background: #eedfe4;
 }
 
-.email-us-button {
-    padding-left: 100px;
-}
-
-.copy { 
-    padding-left: 100px;
-}
-
-.logo {
-    height: 50px;
-    weight: 50px;
+.logo img {
+    width: 100px;
+    height: 100px;
 }
