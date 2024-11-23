@@ -5,7 +5,7 @@ DIVNO website.
 Tools for development: 
 - HTML
 - CSS
-- JavaScript
+- JavaScript / React
 
 Tools for design:
 - Adobe Creative Cloud
