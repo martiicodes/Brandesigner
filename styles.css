@@ -35,3 +35,8 @@ p {
     line-height: 100%; 
 }
 
+.header {
+    background-image: url(images/DIVNO\ -\ header\ and\ foother\ -\ square\ page.svg);
+    height: 200px
+}
+
