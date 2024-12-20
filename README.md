@@ -1,6 +1,6 @@
-# DIVNO
+# Brandesigner
 
-DIVNO website.
+Brandesigner website.
 
 Tools for development: 
 - HTML
