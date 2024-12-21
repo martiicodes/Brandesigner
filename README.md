@@ -2,6 +2,8 @@
 
 Brandesigner website.
 
+Hey, simplicity.
+
 Tools for development: 
 - HTML
 - CSS
