@@ -2,8 +2,6 @@
 
 Brandesigner website.
 
-Hey, simplicity.
-
 Tools for development: 
 - HTML
 - CSS
@@ -16,6 +14,6 @@ Tools for design:
 Goals:
 - Copy: sales letter
 - Portfolio sections
-- Google Analytics
-- Facebook Pixel
+- (Google Analytics?)
+- (Facebook Pixel?)
 
